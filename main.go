@@ -20,7 +20,7 @@
 
 package main
 
-import "intelliguy/cmd"
+import "github.com/intelliguy/cli/cmd"
 
 func main() {
 	cmd.Execute()
